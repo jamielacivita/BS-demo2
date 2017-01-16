@@ -1,0 +1,208 @@
+.backgroundWash
+{
+    background-color: cornflowerblue;
+}
+
+.headerText
+{
+font-family: 'Montserrat', sans-serif;
+font-size: 20px;
+text-align: center;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+.bodyText
+{
+font-family: 'Open Sans', sans-serif;
+}
+
+.thickFont  
+{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+
+}
+
+.thinFont
+{   color:white;
+   font-family: 'Open Sans', sans-serif; 
+    font-size: 40px;
+   
+}
+
+.thinParagraph
+{   color:rgb(207, 209, 211);
+   font-family: 'Open Sans', sans-serif; 
+    font-size: 14px;
+   
+}
+
+.spacer
+{
+    height: 250px;
+}
+
+.myButton
+{
+    padding-top:10px;
+    color:rgb(207, 209, 211);
+   font-family: 'Open Sans', sans-serif; 
+    font-size: 14px;
+
+    width:250px;
+    height: 40px;
+    border-radius:50px;
+    background-color:royalblue;
+}
+
+.navbar 
+{
+    padding-top:30px;
+    background-color: cornflowerblue;
+    border: none;
+}
+
+.navbar-brand {
+  padding: 0px;
+}
+.navbar-brand>img {
+  height: 100%;
+  padding: 15px;
+  width: auto;
+}
+
+nav
+{
+     background-color: cornflowerblue;
+}
+
+.feat
+{
+    height:250px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+}
+
+.cards
+{
+    height:250px;
+    width:250px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    margin-bottom: 75px;
+}
+
+.cards:hover
+{
+    box-shadow: 0 0 15px black;
+}
+
+.notizie
+{   border:1px solid green;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;  
+    background-color: cornflowerblue;
+    margin-left:-15px;
+}
+
+.bottomBox
+{   
+    height:150px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+}
+
+.addressBox
+{ 
+    color: white;
+    height:150px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:flex-start;
+    margin-left:100px;
+}
+
+.rightBox
+{ 
+    color: white;
+    height:150px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:flex-start;
+}
+
+.rightBoxInner
+{ 
+    color: white;
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items:center;
+    margin-left:100px;
+    margin-right:30px;
+    margin-bottom:10px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.logoBox
+{
+    color: white;
+    flex-direction: row;
+      height:150px;
+    display:flex;
+    justify-content: space-around;
+    align-items:center;
+    margin-left:150px;
+    margin-right:150px;
+}
+
+.blackwash
+{
+    height:200px;
+    background-color: black;
+}
+
+videoPic
+{
+    padding-left:-15px;
+    padding-right:-15px;
+
+}
+
+.bottomLogo
+{
+    font-size: 40px;
+}
+
+.smallBox
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 45px;
+    height: 45px;
+    background-color: darkslategrey;
+    border-radius:2px;
+    border: 1px solid darkslategray;
+    margin-right:15px;
+    font-size:20px;
+
+.navbarLink
+{
+    font-size:18px;
+    color:rgb(207, 209, 211);
+    padding-right:100px;
+}
